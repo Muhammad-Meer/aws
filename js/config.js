@@ -5,6 +5,6 @@ window._config = {
         region: 'us-west-2'
     },
     api: {
-        invokeUrl: '' // Will be updated after API Gateway is created
+        invokeUrl: 'https://6fy0dk0mg7.execute-api.us-west-2.amazonaws.com/dev' // Will be updated after API Gateway is created
     }
 };
